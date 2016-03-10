@@ -1,0 +1,3 @@
+This is the first text file to be created here.
+below line indicates todays time
+=== 12:01 ===

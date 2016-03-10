@@ -1,3 +1,6 @@
 This is the first text file to be created here.
 below line indicates todays time
 === 12:01 ===
+This Branch is Created From Master Branch
+with Name Branch 002
+=== 12:04 ===
